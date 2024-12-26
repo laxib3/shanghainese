@@ -7,7 +7,7 @@ permalink: /pinyin/
 ###### Shanghainese Phonetic Scheme             
 
 上海话拼音方案，是由钱乃荣教授带领制定，并于2006年11月在“首届上海方言国际学术研讨会”上，由出席会议的专家和网友集体审定的，一种贴近汉语拼音方案的上海话注音方案。方案使用国际通用的26个拉丁字母。              
-_The Shanghainese Phonetic Scheme was developed under the leadership of Professor Qian Nairong and was collectively approved by experts and netizens attending the "First Shanghai Dialect International Academic Symposium" in November 2006. It is a phonetic scheme for Shanghainese that is close to the Chinese Phonetic Scheme (Hanyu Pinyin). The plan uses the internationally recognized 26 Latin letters._               
+_The Shanghainese Phonetic Scheme was developed under the leadership of Professor Qian Nairong and was collectively approved by experts and netizens attending the "First Shanghai Dialect International Academic Symposium" in November 2006. It is a phonetic scheme for Shanghainese that is close to the Chinese Phonetic Scheme (Hanyu Pinyin, a scheme for Mandarin). The plan uses the internationally recognized 26 Latin letters._               
 
 本网站主要使用本方案进行注音。                              
 _This website mainly uses this scheme for phonetic annotation._                      
@@ -49,7 +49,7 @@ _There is a "postnasal" initial consonant in Shanghai dialect. When pronouncing,
 ###### 18 Basic Final Consonants                        
 
 以下韵母与汉语拼音方案的读音一致。                
-_The following final consonants have the same pronunciation as the Chinese Phonetic scheme._                  
+_The following final consonants have the same pronunciation as the Chinese Phonetic Scheme._                  
 
 | i 衣 | u 乌 | yu 迂 |                
 | :---: | :---: | :---: |                           
@@ -75,7 +75,7 @@ _The following two final consonants need to be pronounced as unchanging vowels, 
 | ao 澳 | ou 欧 |             
 
 上海话存在2个鼻化音的韵。读音时，鼻音 n 或 ng 与元音 a 同时发出。                                                      
-_Shanghainese has two nasalized final consonants. When pronouncing, the nasal "n" or "ng" is pronounced at the same time as the final consonant "a"._                      
+_Shanghainese has two nasalized final consonants. When pronouncing, the nasal "n" or "ng" is pronounced at the same time as the vowel "a"._                      
 
 | :---: | :---: |                            
 | an 张 | ang 章 |                
