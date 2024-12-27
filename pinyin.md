@@ -4,19 +4,13 @@ title: 上海话拼音方案
 permalink: /pinyin/
 ---             
 
-###### Shanghainese Phonetic Scheme             
-
 上海话拼音方案，是由钱乃荣教授带领制定，并于2006年11月在“首届上海方言国际学术研讨会”上，由出席会议的专家和网友集体审定的，一种贴近汉语拼音方案的上海话注音方案。方案使用国际通用的26个拉丁字母。              
-_The Shanghainese Phonetic Scheme was developed under the leadership of Professor Qian Nairong and was collectively approved by experts and netizens attending the "First Shanghai Dialect International Academic Symposium" in November 2006. It is a phonetic scheme for Shanghainese that is close to the Chinese Phonetic Scheme (Hanyu Pinyin, a scheme for Mandarin). The plan uses the internationally recognized 26 Latin letters._               
 
 本网站主要使用本方案进行注音。                              
-_This website mainly uses this scheme for phonetic annotation._                      
 
-### I. 26个声母                 
-###### 26 Initial Consonants                        
+### 一、26个声母                 
 
 以下声母与汉语拼音方案的读音一致。                          
-_The following initials have the same pronunciation as Chinese Phonetic Scheme._                             
 
 | b 剥 | p 朴 | m 摸 | f 福 |                                       
 | :---: | :---: | :---: | :---: |                       
@@ -26,9 +20,8 @@ _The following initials have the same pronunciation as Chinese Phonetic Scheme._
 | z 资 | c 雌 | s 思 |  |               
 
 以下8个声母（右侧）是上海话特有的读音，通常被称作“浊辅音”，通过在原“清辅音”的声母后增加字母 h 表示。读音时，在“清辅音”的基础上震动喉咙。                     
-_The following 8 initial consonants (on the right) are unique pronunciations of Shanghainese, commonly referred to as "voiced consonants", represented by adding the letter "h" after the initial consonant "voiceless consonants". When pronouncing, vibrate the throat on the basis of "voiceless consonants"._              
 
-| 清辅音<br>_Voiceless Consonants_ | 浊辅音<br>_Voiced Consonants_ |             
+| 清辅音 | 浊辅音 |             
 | :---: | :---: |               
 | b 剥 | bh 薄 |             
 | d 答 | dh 达 |             
@@ -40,16 +33,13 @@ _The following 8 initial consonants (on the right) are unique pronunciations of 
 | h 喝 | hh 盒 |             
 
 上海话中存在1个“后鼻音”声母。读音时，将口齿保持在读普通话后鼻音 ng 的状态，直接震动鼻腔。类似普通话 嗯（ǹg）的读音。               
-_There is a "postnasal" initial consonant in Shanghai dialect. When pronouncing, keep the mouth in a state similar to the nasal sound "ng" in Mandarin and vibrate the nasal cavity directly._                  
 
 | :---: |               
 | ng（额） |             
 
 ### II. 18个基础韵母                 
-###### 18 Basic Final Consonants                        
 
 以下韵母与汉语拼音方案的读音一致。                
-_The following final consonants have the same pronunciation as the Chinese Phonetic Scheme._                  
 
 | i 衣 | u 乌 | yu 迂 |                
 | :---: | :---: | :---: |                           
@@ -57,25 +47,21 @@ _The following final consonants have the same pronunciation as the Chinese Phone
 | en 恩 | ong 翁 | er 而 |             
 
 以下1个韵母与汉语拼音方案 zi，ci，si 的韵母类似。                           
-_The following one final consonant is similar to the Chinese Phonetic schemes "zi", "ci", "si"._                              
 
 | :---: |               
 | y 字 |                      
 
 以下1个韵母与汉语拼音方案 ê 的读音一致。普通话 耶（yē）和 约（yuē）中 ê 的读音。            
-_The following one final consonant has the same pronunciation as the Chinese Phonetic Scheme "ê", which is a part of "yē" or "yuē" in Mandarin._
 
 | :---: |              
 | e 埃 |                    
 
 以下2个韵母需读成口齿不变化的单元音，与普通话读音略有不同，但在字母写法处理上与汉语拼音方案保持一致。                  
-_The following two final consonants need to be pronounced as unchanging vowels, which are slightly different from the pronunciation of Mandarin, but are consistent with the Chinese Phonetic Scheme in the processing of letters._                      
 
 | :---: | :---: |                            
 | ao 澳 | ou 欧 |             
 
 上海话存在2个鼻化音的韵。读音时，鼻音 n 或 ng 与元音 a 同时发出。                                                      
-_Shanghainese has two nasalized final consonants. When pronouncing, the nasal "n" or "ng" is pronounced at the same time as the vowel "a"._                      
 
 | :---: | :---: |                            
 | an 张 | ang 章 |                

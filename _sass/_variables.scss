@@ -14,14 +14,14 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
-$helvetica: "Helvetica", "Arial", sans-serif;
-$helveticaNeue: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-$georgia: "Times New Roman", "SimSun", "Microsoft YaHei", sans-serif;
-
-// Fonts
-$base-font: 'Times New Roman', 'SimSun', 'Microsoft YaHei', sans-serif;
-$code-font: 'Courier New', 'Times New Roman', 'SimSun', 'Microsoft YaHei', monospace;
+// Font stacks  
+$helvetica: "Helvetica", "Arial", sans-serif; // 这个主要是西文字体，可以保留用于西文环境  
+$helveticaNeue: "Helvetica Neue", "Helvetica", "Arial", sans-serif; // 同上，主要是西文字体  
+$georgia: "Microsoft YaHei", "SimHei", sans-serif; // 已是简体中文的无衬线字体，无需修改  
+  
+// Fonts  
+$base-font: 'Microsoft YaHei', 'SimHei', sans-serif; // 移除了非简体中文字体  
+$code-font: 'Courier New', 'Microsoft YaHei', 'SimHei', monospace; // 移除了非简体中文字体，并添加了'monospace'作为最后的通用无衬线字体备选
 
 // Font sizes
 $base-font-size: 18px;
