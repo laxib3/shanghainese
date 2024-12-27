@@ -6,7 +6,7 @@ permalink: /sitemap/
 
 ###### Site Map                        
 
-| [搜索 Search](/shanghainese) |          
-| :---: |                       
-| [辞典功能 Dict. Functions](/shanghainese/functions) |          
-| [关于我们 About Us](/shanghainese/about) |          
+| [搜索<br>Search](/shanghainese) |          
+| :--- |                       
+| [辞典功能<br>Doctionary Functions](/shanghainese/functions) |          
+| [关于我们<br>About Us](/shanghainese/about) |          
