@@ -12,7 +12,7 @@ permalink: /about/
 
 以下是 The GOSDO 成员名单（排名不分先后）：                    
 
-| RdNiteGlow | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
+| 韩俊辉 | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
 | :---: | :---: | :---: |           
 | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp; |           
 
